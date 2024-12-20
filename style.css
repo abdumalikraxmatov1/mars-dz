@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.ota{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul{
+    display: flex;
+    gap: 40px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    text-shadow: 2px 2px 5px;
+    
+}
+ul li{
+    list-style: none;
+}
+header{
+    background-color: black;
+    padding: 30px 0;
+}
+.s1ota{
+    height: 590px;
+    background-image: url(./img/Rectangle\ 2\(1\).png);
+    padding: 30px;
+}
+h1{
+    background-color: white;
+    font-size: 50px;
+    width: 400px;
+    padding: 10 30px;
+    border-radius: 30px;
+    text-align: center;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 16px 18px 28px 0px #FFFFFF40;
+
+}
+body{
+    background-color: black;
+}
+.yashil{
+    width: 237px;
+height: 209px;
+background-color: green;
+position: relative;
+}
+.qizil{
+    width: 237px;
+height: 209px;
+background-color: red;
+position: absolute;
+bottom: 130px;
+left: 130px;
+font-family: Inter;
+
+
+}
+.orta{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 200px;
+}
+.yashil1{
+    width: 237px;
+height: 209px;
+background-color: green;
+position: relative;
+}
+.qizil1{
+    width: 337px;
+height: 209px;
+background-color: red;
+position: absolute;
+bottom: 130px;
+right: -50px;
+border-radius: 30px;
+
+}
+h2{
+    font-size: 24px;
+font-weight: 700;
+line-height: 29.05px;
+text-align: center;
+text-shadow: 0px 4px 7.4px 0px #FFFFFF;
+color: white;
+margin-top: 160px;
+}
+.yashil2{
+    width: 237px;
+height: 209px;
+background-color: green;
+position: relative;
+}
+.qizil2{
+    width: 237px;
+height: 209px;
+background-color: red;
+position: absolute;
+bottom: 130px;
+right: 130px;
+
+}
+.card{
+    width: 368px;
+height: 332px;
+background-color: #7B2525;
+
+}
+.s2 h1{
+    margin: 60px auto;
+}
+p{
+    color: white;
+    width: 265px;
+  height: 96px;
+  text-align: center;
+  font-size: 25px;
+  margin-top: 70px;
+  margin-left: 50px;
+}
+.cards{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.s2 h2{
+    margin-top: 40px;
+}
+.s2 img{
+    margin: 50px 15px;
+}
+footer{
+    margin-top: 100px;
+}
